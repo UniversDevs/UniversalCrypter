@@ -1,0 +1,11 @@
+C:\Users\Manjiro\Desktop\Universal Crypter\TEST\UniversalCrypterFree\UniversalFreeStub\UniversalStubFree\bin\Debug\UniversalStubFree.exe.config
+C:\Users\Manjiro\Desktop\Universal Crypter\TEST\UniversalCrypterFree\UniversalFreeStub\UniversalStubFree\bin\Debug\UniversalStubFree.exe
+C:\Users\Manjiro\Desktop\Universal Crypter\TEST\UniversalCrypterFree\UniversalFreeStub\UniversalStubFree\bin\Debug\UniversalStubFree.pdb
+C:\Users\Manjiro\Desktop\Universal Crypter\TEST\UniversalCrypterFree\UniversalFreeStub\UniversalStubFree\bin\Debug\UniversalStubFree.xml
+C:\Users\Manjiro\Desktop\Universal Crypter\TEST\UniversalCrypterFree\UniversalFreeStub\UniversalStubFree\obj\Debug\UniversalStubFree.vbproj.AssemblyReference.cache
+C:\Users\Manjiro\Desktop\Universal Crypter\TEST\UniversalCrypterFree\UniversalFreeStub\UniversalStubFree\obj\Debug\UniversalStubFree.Resources.resources
+C:\Users\Manjiro\Desktop\Universal Crypter\TEST\UniversalCrypterFree\UniversalFreeStub\UniversalStubFree\obj\Debug\UniversalStubFree.vbproj.GenerateResource.cache
+C:\Users\Manjiro\Desktop\Universal Crypter\TEST\UniversalCrypterFree\UniversalFreeStub\UniversalStubFree\obj\Debug\UniversalStubFree.vbproj.CoreCompileInputs.cache
+C:\Users\Manjiro\Desktop\Universal Crypter\TEST\UniversalCrypterFree\UniversalFreeStub\UniversalStubFree\obj\Debug\UniversalStubFree.exe
+C:\Users\Manjiro\Desktop\Universal Crypter\TEST\UniversalCrypterFree\UniversalFreeStub\UniversalStubFree\obj\Debug\UniversalStubFree.xml
+C:\Users\Manjiro\Desktop\Universal Crypter\TEST\UniversalCrypterFree\UniversalFreeStub\UniversalStubFree\obj\Debug\UniversalStubFree.pdb
