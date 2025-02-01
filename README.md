@@ -77,6 +77,6 @@ You can encrypt any file to get Fully Undetectable (FUD) results in scantime and
 
 You can Bypass Windows Defender using our FUD Crypter Software. Using our FUD Crypter Tool, you will get Fully Undetectable (FUD) results in scantime and runtime.
 
-![image](https://media.discordapp.net/attachments/1179110185340502110/1211320466803789824/photo_2024-02-22_15-48-59.jpg?ex=65edc518&is=65db5018&hm=f03e9b8a63f27c78dea499090aa98d3d76a0fc61ec522103e24fe18eeaed291e)
+![image](https://raw.githubusercontent.com/UniversDevs/UniversalCrypter/refs/heads/main/Pictures/dashboard.png)
 
-![image](https://media.discordapp.net/attachments/1131772920679649373/1193580924902850640/image.png?ex=65e49adc&is=65d225dc&hm=787738c61f401af0dc884466ab980a0dbfc59f35d05287426281fe4a6bde1156)
+![image](https://raw.githubusercontent.com/UniversDevs/UniversalCrypter/refs/heads/main/Pictures/settings.png)
