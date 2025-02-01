@@ -21,7 +21,7 @@ If you have any problem or any question, feel free to contact me.
 **What is a FUD Crypter?**
 
 FUD Crypter is encryption tool. You can make FUD your files to bypass antiviruses “Windows Defender AMSI” etc.
-Also you can protect your own codes with FUD Crypter 2024. You can get FUD Results with Crypter FUD 2024 on Scantime and Runtime. Your file will be secure with our encryption.
+Also you can protect your own codes with FUD Crypter 2025. You can get FUD Results with Crypter FUD 2025 on Scantime and Runtime. Your file will be secure with our encryption.
 
 **[Click here to visit our site](https://www.luxuryshield.org/)**
 
@@ -73,7 +73,7 @@ You can encrypt any file to get Fully Undetectable (FUD) results in scantime and
 
 
 
-**Bypass Windows Defender 2024.**
+**Bypass Windows Defender 2025.**
 
 You can Bypass Windows Defender using our FUD Crypter Software. Using our FUD Crypter Tool, you will get Fully Undetectable (FUD) results in scantime and runtime.
 
