@@ -58,7 +58,7 @@ Obfuscator
   
 - Bypass SmartScreen (Early Stub)
   
-- Kill AV’s [WD,…] (Soon...)
+- Kill AV’s [WD,Avast,…] (Soon...)
   
 - Best Customer Support 24/7
   
