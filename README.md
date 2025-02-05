@@ -10,7 +10,7 @@ Here, I'm sharing with you a free open source crypter. This crypter is not "FUD"
 
 I'm young dev working on cybersecurity (FUD Crypter, Office Exploits,...)
 
-I'm selling my own quality tools. I invite to look at the rest of the README.
+I'm selling my own quality tools. I invite to look at the rest of my README.
 
 If you have any problem or any question, feel free to contact me.
 
